@@ -1,2 +1,2 @@
 # erewhon
-A minimal, pure theme for Hugo.
+A minimal, pure theme.
